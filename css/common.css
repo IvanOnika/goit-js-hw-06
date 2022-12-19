@@ -22,3 +22,18 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+li {
+  margin: 10px;
+  width: 330px;
+
+}
+
+img{
+  border: 2px solid #ee0566; 
+  border-radius: 25px;
+    padding: 15px; 
+    background: rgb(65, 17, 17); 
+    margin-right: 10px; 
+    width: 330px;
+   height: 200px;
+}
